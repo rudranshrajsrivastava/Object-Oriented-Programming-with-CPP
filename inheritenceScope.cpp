@@ -12,5 +12,5 @@ class Human{
 
 int main(){
     Human h;
-    h.a=10;
+    cout << h.a;
 }
